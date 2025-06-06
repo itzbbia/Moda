@@ -61,7 +61,7 @@ header nav ul li a:hover {
 /* Botões */
 .btn {
     display: inline-block;
-    background-color: #ff69b4; /* Cor de destaque */
+    background-color: #bfcda3; /* Cor de destaque */
     color: #fff;
     padding: 12px 25px;
     text-decoration: none;
@@ -73,7 +73,7 @@ header nav ul li a:hover {
 }
 
 .btn:hover {
-    background-color: #e05c9e; /* Tom mais escuro no hover */
+    background-color: #93a966; /* Tom mais escuro no hover */
 }
 
 /* Seção Hero */
