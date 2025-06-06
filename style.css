@@ -4,10 +4,10 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #d0dcc3;
+    background-color: #b7a096;
     color: #bfcda3;
 }
-
+    #d0dcc3
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -16,7 +16,7 @@ body {
 #a6c08b
 /* Cabeçalho */
 header {
-    background-color: #b7a096;
+    background-color:#8b847b ;
     padding: 20px 0;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     position: sticky;
